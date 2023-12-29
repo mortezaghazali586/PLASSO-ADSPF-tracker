@@ -1,5 +1,7 @@
 hi
 to download my code see the Tags tab in the Code tab.
+Some codes are not used in the main code and are included for training.
+
 run Matlab
 correct the address code and sequences  
 run install_rgbt234_NEW.m
