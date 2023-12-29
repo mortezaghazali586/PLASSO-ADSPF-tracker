@@ -1,2 +1,7 @@
 hi
-to download my code see the Tags tab in Code tab.
+to download my code see the Tags tab in the Code tab.
+run Matlab
+correct the address code and sequences  
+run install_rgbt234_NEW.m
+to download imagenet-vgg-m-2048.mat file see the link: https://www.vlfeat.org/matconvnet/models/imagenet-vgg-m-2048.mat
+note: you must use your trained CNN. 
