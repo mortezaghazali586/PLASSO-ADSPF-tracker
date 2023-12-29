@@ -1,2 +1,2 @@
 hi
-to download my code see the tags tab.
+to download my code see the Tags tab in Code tab.
